@@ -1,4 +1,4 @@
-### Olá! Me chamo Gabriel sou desenvolvedor front-end com 1 ano de experiencia. 👋
+### Olá! Me chamo Gabriel sou desenvolvedor front-end. 👋
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/moonpsd_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moondzn_/)
