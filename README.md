@@ -2,7 +2,7 @@
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/moonpsd_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moondzn_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-f-nakamura-547886298/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=radical)](https://www.linkedin.com/in/gabriel-f-nakamura-547886298/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonpsd&layout=compact)
 
